@@ -10,5 +10,7 @@ The algorithm performed well according to the fitness function used, but some im
 - Here is the result of the algorithm :
 
 
+
+
 ![Results](image_2023-02-15_194623809.png)
 
